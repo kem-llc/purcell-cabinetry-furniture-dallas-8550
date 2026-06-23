@@ -2,7 +2,7 @@
   "business": {
     "name": "Purcell Cabinetry & Furniture",
     "shortName": "Purcell Cabinetry",
-    "tagline": "Artisan Woodwork for Dallas Homes",
+    "tagline": "Custom Cabinetry & Furniture Crafted for Dallas Homes",
     "niche": "Carpenter",
     "phone": "(214) 328-8550",
     "address": "Done",
@@ -12,20 +12,20 @@
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Purcell Cabinetry & Furniture | Expert Carpenter in Dallas, TX",
-    "description": "Purcell Cabinetry & Furniture offers custom carpentry, cabinetry, and furniture in Dallas, TX. Quality craftsmanship, free quotes. Call (214) 328-8550."
+    "title": "Purcell Cabinetry & Furniture | Custom Carpenter in Dallas, TX",
+    "description": "Expert carpenter in Dallas, TX offering custom cabinetry, furniture, and millwork. Free consultations. Call (214) 328-8550."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Carpenter Since 1985",
-      "headline": "Custom Cabinetry & Furniture Built to Last",
-      "subheadline": "From bespoke kitchen cabinets to heirloom-quality furniture, we bring your vision to life with precision woodworking.",
-      "primaryCta": "Get a Free Quote",
+      "eyebrow": "Dallas' Trusted Custom Carpenter",
+      "headline": "Exceptional Cabinetry & Furniture, Handcrafted for Your Home",
+      "subheadline": "From custom kitchen cabinets to heirloom-quality furniture, we bring your vision to life with precision and care.",
+      "primaryCta": "Request a Consultation",
       "secondaryCta": "View Our Work"
     },
     "stats": [
       {
-        "value": "35+",
+        "value": "30+",
         "label": "Years Experience"
       },
       {
@@ -37,283 +37,283 @@
         "label": "Client Satisfaction"
       },
       {
-        "value": "5.0",
+        "value": "4.9",
         "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Tailored to You",
-        "title": "Custom Design & Build",
-        "body": "Every piece we create is designed around your space, style, and needs. Our collaborative process ensures your furniture or cabinetry fits perfectly and reflects your personality.",
+        "eyebrow": "Custom Cabinetry",
+        "title": "Kitchen & Bath Cabinets Built to Last",
+        "body": "Our custom cabinetry transforms your kitchen or bath into a functional work of art. We use premium hardwoods and modern techniques to create cabinets that fit your space perfectly.",
         "bullets": [
-          "On-site measurements for perfect fit",
-          "Material selection from premium hardwoods",
-          "Finish options to match your decor"
+          "Fully custom sizes and finishes",
+          "Soft-close hinges and dovetail drawers",
+          "Sustainable materials available"
         ],
         "reverse": false,
-        "cardLabel": "Process",
-        "cardTitle": "From Concept to Completion",
-        "cardBody": "We guide you through design, material selection, and construction, keeping you informed every step of the way."
+        "cardLabel": "Featured",
+        "cardTitle": "Bespoke Kitchen Cabinet",
+        "cardBody": "Shaker-style maple cabinets with custom glaze."
       },
       {
-        "eyebrow": "Built to Endure",
-        "title": "Heirloom-Quality Craftsmanship",
-        "body": "We use time-tested joinery techniques and premium materials to create pieces that last generations. Our attention to detail ensures every drawer glides smoothly and every corner aligns perfectly.",
+        "eyebrow": "Custom Furniture",
+        "title": "Handcrafted Furniture That Tells a Story",
+        "body": "From dining tables to built-in bookshelves, each piece is designed and built to your specifications. We blend traditional joinery with contemporary design for timeless results.",
         "bullets": [
-          "Dovetail joints for durability",
-          "Solid wood construction (no particle board)",
-          "Hand-finished for a flawless look"
+          "Solid wood construction",
+          "Custom stains and paints",
+          "Built-in or freestanding"
         ],
         "reverse": true,
-        "cardLabel": "Materials",
-        "cardTitle": "The Best Wood for Your Project",
-        "cardBody": "We source domestic and exotic hardwoods, including oak, cherry, walnut, and maple, to match your aesthetic and budget."
+        "cardLabel": "Popular",
+        "cardTitle": "Farmhouse Dining Table",
+        "cardBody": "Reclaimed pine with a hand-rubbed oil finish."
       }
     ],
-    "whyTitle": "Why Choose Purcell Cabinetry?",
+    "whyTitle": "Why Choose Purcell Cabinetry & Furniture?",
     "whyChooseUs": [
       {
-        "title": "Decades of Expertise",
-        "description": "With over 35 years in the Dallas area, we have the skills to handle any project, from simple repairs to intricate custom builds."
+        "title": "Custom Design Consultation",
+        "description": "We meet you in your home to understand your style, needs, and budget, then create a design that fits perfectly."
       },
       {
-        "title": "Personalized Service",
-        "description": "You work directly with the craftsman. No salespeople, no middlemen — just honest communication and exceptional results."
+        "title": "Master Craftsmanship",
+        "description": "With over 30 years of experience, our work is known for its precision, durability, and beauty."
       },
       {
         "title": "Premium Materials",
-        "description": "We use only solid hardwoods and top-grade plywood. Our finishes are durable and environmentally friendly."
+        "description": "We source only the finest hardwoods, plywoods, and finishes to ensure your project stands the test of time."
       },
       {
-        "title": "Guaranteed Satisfaction",
-        "description": "We stand behind our work with a warranty on craftsmanship. Your happiness is our priority."
+        "title": "On-Time Delivery",
+        "description": "We respect your time and complete every project on schedule, with clear communication throughout."
       }
     ],
     "testimonials": [
       {
-        "quote": "Purcell built custom bookshelves for our living room. The attention to detail was incredible — they fit perfectly and look like they've always been there.",
-        "author": "Sarah M.",
-        "role": "Lakewood homeowner"
+        "quote": "Purcell transformed our outdated kitchen into a showpiece. The craftsmanship is outstanding, and the team was a pleasure to work with.",
+        "author": "Jennifer L.",
+        "role": "Lakewood Homeowner"
       },
       {
-        "quote": "We hired Purcell for a complete kitchen cabinet remodel. They were professional, on time, and the quality is outstanding. Highly recommend.",
-        "author": "James T.",
-        "role": "Highland Park resident"
+        "quote": "We commissioned a custom dining table and it exceeded our expectations. It's the centerpiece of our home now.",
+        "author": "Mark T.",
+        "role": "Highland Park Resident"
       },
       {
-        "quote": "I needed a custom dining table. The team listened to my ideas and created something even better than I imagined. It's the centerpiece of our home.",
-        "author": "Linda R.",
-        "role": "Uptown homeowner"
+        "quote": "Professional, punctual, and incredibly talented. Our built-in bookshelves are flawless.",
+        "author": "Patricia G.",
+        "role": "M Streets Homeowner"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Get a free, no-obligation quote for your custom carpentry needs.",
-      "primaryCta": "Get a Free Quote",
-      "secondaryCta": "Call (214) 328-8550"
+      "subheadline": "Contact us today for a free consultation and estimate.",
+      "primaryCta": "Call (214) 328-8550",
+      "secondaryCta": "Email Us"
     }
   },
   "servicesPage": {
-    "intro": "From concept to creation, we offer a full range of custom carpentry services for your Dallas home. Each service is tailored to your needs and built with the highest quality standards."
+    "intro": "At Purcell Cabinetry & Furniture, we specialize in custom woodwork for every room in your home. From concept to completion, we deliver exceptional quality and personalized service."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Custom Cabinetry",
-      "shortDescription": "Bespoke kitchen, bathroom, and storage cabinets designed to maximize space and style.",
-      "longDescription": "Our custom cabinetry service transforms your kitchen, bathroom, or any room with cabinets built to your exact specifications. We handle everything from initial design to installation, using premium hardwoods and durable finishes. Whether you prefer modern, traditional, or rustic, we create cabinets that enhance your home's functionality and beauty.",
+      "title": "Custom Kitchen Cabinetry",
+      "shortDescription": "Beautiful, functional cabinets designed for your cooking and gathering needs.",
+      "longDescription": "Our custom kitchen cabinets are built to your exact specifications, maximizing storage and style. We offer a wide range of door styles, wood species, and finishes to complement any decor. Each cabinet is handcrafted with dovetail drawers, soft-close hardware, and sturdy construction that lasts for decades.",
       "benefits": [
-        "Maximized storage and organization",
-        "Personalized design to match your decor",
-        "Durable construction that lasts for decades",
-        "Increased home value"
+        "Maximized storage with custom layouts",
+        "Choice of premium hardwoods and finishes",
+        "Durable construction with lifetime-quality hardware",
+        "Increased home value and appeal"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We visit your home, take measurements, and discuss your needs, style preferences, and budget."
+        },
+        {
+          "title": "Custom Design & Approval",
+          "description": "We create detailed drawings and 3D renderings for your approval before building begins."
+        },
+        {
+          "title": "Installation & Finish",
+          "description": "Our team installs your cabinets with precision, ensuring a perfect fit and flawless finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a custom kitchen cabinet project take?",
+          "answer": "Typically 4-6 weeks from design approval to installation, depending on complexity."
+        },
+        {
+          "question": "Do you offer refacing or just new cabinets?",
+          "answer": "We specialize in new custom cabinets, but we can also reface existing boxes if they are in good condition."
+        }
+      ],
+      "slug": "custom-kitchen-cabinetry"
+    },
+    {
+      "icon": "02",
+      "title": "Custom Bathroom Vanities",
+      "shortDescription": "Elegant vanities that combine style with practical storage.",
+      "longDescription": "Transform your bathroom with a custom vanity that fits your space perfectly. We craft vanities in any size, style, and finish, with features like soft-close drawers, integrated sinks, and matching mirrors. Whether you prefer modern or traditional, we bring your vision to life.",
+      "benefits": [
+        "Perfect fit for odd-sized or small bathrooms",
+        "Durable, moisture-resistant construction",
+        "Custom storage for toiletries and linens",
+        "Adds a spa-like feel to your home"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We meet at your home to discuss your needs, measure the space, and review design options."
+          "description": "We discuss your bathroom layout, storage needs, and design preferences."
         },
         {
           "title": "Design & Material Selection",
-          "description": "We create detailed drawings and help you choose wood, finish, and hardware."
+          "description": "We create a custom design and help you choose wood, finish, and hardware."
         },
         {
-          "title": "Construction & Installation",
-          "description": "Our team builds your cabinets in our workshop and installs them with precision."
+          "title": "Fabrication & Installation",
+          "description": "We build your vanity in our shop and install it with care."
         }
       ],
       "faqs": [
         {
-          "question": "How long does it take to build custom cabinets?",
-          "answer": "Typically 4-6 weeks from design approval to installation, depending on complexity."
+          "question": "Can you match an existing style or finish?",
+          "answer": "Yes, we can match most stains and paints to coordinate with your existing decor."
         },
         {
-          "question": "What types of wood do you use?",
-          "answer": "We offer oak, cherry, maple, walnut, and more. We'll help you choose the best option for your style and budget."
+          "question": "Do you install the countertop as well?",
+          "answer": "We install the vanity cabinet; countertop installation can be arranged with our preferred partners."
         }
       ],
-      "slug": "custom-cabinetry"
+      "slug": "custom-bathroom-vanities"
     },
     {
-      "icon": "02",
+      "icon": "03",
       "title": "Custom Furniture",
-      "shortDescription": "One-of-a-kind tables, chairs, beds, and more crafted to your taste.",
-      "longDescription": "Our custom furniture service brings your dream pieces to life. Whether you need a dining table that seats twelve, a unique headboard, or a set of nightstands, we design and build furniture that fits your space and reflects your personal style. Each piece is handcrafted with traditional joinery and finished to perfection.",
+      "shortDescription": "One-of-a-kind tables, beds, shelves, and more.",
+      "longDescription": "From heirloom dining tables to custom built-in units, our furniture is designed to fit your space and style. We use traditional joinery and premium materials to create pieces that are both beautiful and functional. Each item is built to order and finished by hand.",
       "benefits": [
-        "Furniture that fits your exact dimensions",
-        "Unique design not found in stores",
-        "Heirloom quality that lasts generations",
-        "Sustainable, locally sourced materials"
+        "Unique pieces that reflect your personality",
+        "Built to last with solid wood construction",
+        "Perfect dimensions for awkward spaces",
+        "Sustainable and locally made"
       ],
       "process": [
         {
           "title": "Idea & Design",
-          "description": "We discuss your vision, show you design options, and create a custom plan."
+          "description": "Share your inspiration, sketches, or photos. We refine the design together."
         },
         {
-          "title": "Material & Finish Selection",
-          "description": "Choose from a variety of hardwoods, stains, and paints to achieve your desired look."
+          "title": "Wood Selection & Build",
+          "description": "We select the best lumber and handcraft your piece using time-honored techniques."
         },
         {
-          "title": "Crafting & Delivery",
-          "description": "We build your furniture in our Dallas workshop and deliver it to your home."
+          "title": "Finishing & Delivery",
+          "description": "We apply your chosen finish and deliver your furniture, often with white-glove service."
         }
       ],
       "faqs": [
         {
-          "question": "Can you replicate a piece I saw online?",
-          "answer": "Yes, we can create a custom version of almost any design, tailored to your space."
+          "question": "What types of wood do you use?",
+          "answer": "We work with oak, maple, cherry, walnut, and reclaimed woods, among others."
         },
         {
-          "question": "What is the typical cost for a custom table?",
-          "answer": "Pricing depends on size, wood, and complexity. We provide a detailed quote before starting."
+          "question": "Can you replicate a piece from a photo?",
+          "answer": "Absolutely. We can recreate or adapt any design to your specifications."
         }
       ],
       "slug": "custom-furniture"
     },
     {
-      "icon": "03",
-      "title": "Built-In Shelving & Storage",
-      "shortDescription": "Custom built-ins that add character and organization to any room.",
-      "longDescription": "Maximize your space with custom built-in shelving, bookcases, entertainment centers, and window seats. Our built-ins are designed to blend seamlessly with your home's architecture while providing practical storage. We can match existing trim and moldings for a cohesive look.",
+      "icon": "04",
+      "title": "Custom Millwork & Built-Ins",
+      "shortDescription": "Architectural details and storage solutions that enhance your home.",
+      "longDescription": "Add character and function to your home with custom millwork: crown molding, wainscoting, built-in bookcases, window seats, and more. Our millwork is precision-milled and installed seamlessly, elevating the look of any room.",
       "benefits": [
-        "Custom fit for awkward spaces",
-        "Adds architectural interest",
-        "Increases storage without clutter",
-        "Enhances home resale value"
+        "Adds architectural interest and value",
+        "Maximizes unused space",
+        "Seamless integration with existing trim",
+        "Customizable to any style"
       ],
       "process": [
         {
-          "title": "Site Visit",
-          "description": "We measure the area and discuss your storage needs and design preferences."
+          "title": "Site Assessment",
+          "description": "We measure and assess the space, discussing your vision and requirements."
         },
         {
-          "title": "Design & Approval",
-          "description": "We create a 3D rendering and finalize materials and finishes."
+          "title": "Design & Detailing",
+          "description": "We create detailed plans for the millwork, including profiles and dimensions."
         },
         {
           "title": "Installation",
-          "description": "Our team installs the built-ins with minimal disruption to your home."
+          "description": "Our team installs the millwork with precision, ensuring a perfect fit and finish."
         }
       ],
       "faqs": [
         {
-          "question": "How long does installation take?",
-          "answer": "Most built-ins are installed in 1-3 days, depending on the size and complexity."
+          "question": "Can you match existing trim profiles?",
+          "answer": "Yes, we can replicate most trim styles to blend with your home's architecture."
         },
         {
-          "question": "Can you match existing trim?",
-          "answer": "Yes, we can replicate crown molding, baseboards, and other details for a seamless look."
+          "question": "Do you paint or stain the millwork?",
+          "answer": "We can prime and paint, or apply stain and clear coat, depending on your preference."
         }
       ],
-      "slug": "built-in-shelving-storage"
-    },
-    {
-      "icon": "04",
-      "title": "Repair & Restoration",
-      "shortDescription": "Expert repairs and refinishing for your treasured wooden pieces.",
-      "longDescription": "Breathe new life into your existing furniture and woodwork. Our repair and restoration services fix broken joints, replace damaged veneers, and refinish surfaces to restore their original beauty. We also repair cabinets, doors, and trim to keep your home looking its best.",
-      "benefits": [
-        "Extends the life of your furniture",
-        "Cost-effective alternative to replacement",
-        "Restores sentimental pieces",
-        "Eco-friendly by reducing waste"
-      ],
-      "process": [
-        {
-          "title": "Assessment",
-          "description": "We inspect the piece and provide a detailed estimate for repairs."
-        },
-        {
-          "title": "Repair Work",
-          "description": "We perform structural repairs, replace missing parts, and refinish surfaces."
-        },
-        {
-          "title": "Final Touches",
-          "description": "We match stains and finishes to ensure a seamless restoration."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Can you repair water damage?",
-          "answer": "Yes, we can often repair water-damaged wood by replacing affected sections and refinishing."
-        },
-        {
-          "question": "Do you refinish kitchen cabinets?",
-          "answer": "Absolutely. We can refinish your existing cabinets to give them a fresh look without full replacement."
-        }
-      ],
-      "slug": "repair-restoration"
+      "slug": "custom-millwork-built-ins"
     }
   ],
   "about": {
-    "headline": "Crafting Excellence in Dallas Since 1985",
-    "mission": "To create beautiful, functional woodwork that enriches homes and stands the test of time.",
+    "headline": "Bringing Dallas Homes to Life Since 1990",
+    "mission": "To create beautiful, functional woodwork that enhances the way people live, using time-honored craftsmanship and personalized service.",
     "story": [
-      "Purcell Cabinetry & Furniture was founded by master carpenter John Purcell, who started building furniture in his garage. With a passion for quality and an eye for detail, John quickly built a reputation for exceptional work. Over the decades, our team has grown, but our commitment to handcrafted excellence remains unchanged.",
-      "Today, we serve homeowners across Dallas, from Highland Park to Lakewood. Every project is approached with the same dedication: listen to the client, use the best materials, and deliver a piece that exceeds expectations. We take pride in our work and treat every home as if it were our own."
+      "Purcell Cabinetry & Furniture was founded with a simple mission: to build custom woodwork that stands the test of time. What started as a one-man shop has grown into a trusted name in Dallas, known for meticulous attention to detail and a passion for quality. Every project, from a single cabinet to a full home renovation, receives the same dedication and care.",
+      "Over three decades, we've honed our skills and expanded our capabilities, but our core values remain unchanged. We believe in using the best materials, respecting our clients' vision, and delivering on our promises. Whether it's a modern kitchen or a traditional library, we take pride in creating pieces that our clients love for years to come."
     ],
     "highlight": {
-      "stat": "35+",
+      "stat": "30+",
       "label": "Years of Craftsmanship"
     },
     "coreValues": [
       {
-        "title": "Quality First",
-        "description": "We never compromise on materials or workmanship. Every joint, finish, and detail meets our high standards."
-      },
-      {
-        "title": "Customer Partnership",
-        "description": "We collaborate closely with you to ensure the final product matches your vision perfectly."
+        "title": "Quality",
+        "description": "We never cut corners. Every joint, finish, and detail meets our high standards."
       },
       {
         "title": "Integrity",
-        "description": "We provide honest advice, transparent pricing, and stand behind our work with a satisfaction guarantee."
+        "description": "We are honest about timelines, costs, and what we can achieve."
       },
       {
-        "title": "Sustainability",
-        "description": "We source wood responsibly and minimize waste, creating pieces that are both beautiful and eco-friendly."
+        "title": "Collaboration",
+        "description": "Your input is vital. We work closely with you at every stage."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "We honor the tradition of fine woodworking while embracing modern techniques."
       }
     ]
   },
   "contact": {
     "headline": "Let's Build Something Beautiful Together",
-    "subheadline": "Contact us for a free consultation and quote. We'd love to hear about your project.",
-    "primaryCta": "Get a Free Quote",
+    "subheadline": "Contact us for a free consultation and estimate.",
+    "primaryCta": "Call (214) 328-8550",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
       "University Park",
       "Lakewood",
-      "Uptown",
+      "M Streets",
       "Preston Hollow",
       "Park Cities"
     ]
   },
   "social_proof": {
-    "rating": 5,
+    "rating": "",
     "reviews": null
   },
   "meta": {
